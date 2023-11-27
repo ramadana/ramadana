@@ -53,5 +53,6 @@ Please don't hesitate to contact me if you want to collaborate with me or if you
 I would love to connect with you. Please chat or email me if you want to collaborate, have a job me, or just want to poke and say hi. You reach me from the list below.
 
 - Email: rama@rmdn.dev
-- Whatsapp / Telegram: +6287853380301
-- LinkedIn: https://www.linkedin.com/in/rmdn/
+- Whatsapp: +628991528939
+- Telegram: @rmdn14
+- LinkedIn: https://www.linkedin.com/in/rmdn
