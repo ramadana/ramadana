@@ -40,14 +40,6 @@ Please don't hesitate to contact me if you want to collaborate with me or if you
 - ☕ Going out for a meetup at a cafe. I love to do this with friends or colleagues.
 - 🏸 Vacuum for 4 years now. I was regularly playing Badminton and Swimming with my friends. But now, everyone seems to have busy with their own life. Would love to play again if possible.
 
-# Things I am Learning
-
-- 🐳 **Docker Swarm** and **Kubernetes**. I need for my next project.
-- 🐙 **************KrakenD**************, also need it for my next project.
-- 🤖 **Android** Native with **Jetpack Compose**
-- 🍃 **************MongoDB**************, I still need to further master it.
-- 🍎 New **iOS** technologies. Like new **********Swift********** and ************SwiftUI************ changes, new ********************Frameworks********************, and so on.
-
 # How to Reach Me
 
 I would love to connect with you. Please chat or email me if you want to collaborate, have a job me, or just want to poke and say hi. You can reach me from the list below.
